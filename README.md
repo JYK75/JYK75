@@ -1,5 +1,5 @@
 🌱 I’m currently learning
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={JYK75}&show_icons=true&theme={cobalt})](https://github.com/{JYK75}/github-readme-stats)
 
 
 <!--
