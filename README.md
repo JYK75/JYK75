@@ -1,4 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYK75&show_icons=true&theme=cobalt)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=aes4546)](https://solved.ac/aes4546)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYK75&show_icons=true&theme=synthwave)
 
 
 <!--
