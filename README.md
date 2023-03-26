@@ -1,7 +1,7 @@
 <div align="center">
 
 
-## :smiley: 백엔드에 관심을 가지고 열심히 공부중입니다.
+## :smiley: 백엔드에 관심을 가지고 공부중입니다. :smiley:
 
 
 <br>
