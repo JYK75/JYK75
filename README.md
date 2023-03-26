@@ -1,19 +1,20 @@
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=aes4546)](https://solved.ac/aes4546)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYK75&show_icons=true&theme=synthwave)
+<div align="center">
 
 
-<!--
-**JYK75/JYK75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :smiley: 백엔드에 관심을 가지고 열심히 공부중입니다.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div style="display: flex; ">
+
+<div style="margin-right: 20px;">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=aes4546)](https://solved.ac/aes4546)
+
+</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYK75&show_icons=true&theme=radical)
+</div>
+
+</div>
